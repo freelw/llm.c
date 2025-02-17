@@ -4,7 +4,8 @@
 SCRIPT_DIR=$(dirname "$(realpath "$0")")
 
 # Base URL
-BASE_URL="https://huggingface.co/datasets/karpathy/llmc-starter-pack/resolve/main/"
+#BASE_URL="https://huggingface.co/datasets/karpathy/llmc-starter-pack/resolve/main/"
+BASE_URL="https://helmtidy-1252366230.cos.ap-beijing.myqcloud.com/llmc/"
 
 # Directory paths based on script location
 SAVE_DIR_PARENT="$SCRIPT_DIR/.."
